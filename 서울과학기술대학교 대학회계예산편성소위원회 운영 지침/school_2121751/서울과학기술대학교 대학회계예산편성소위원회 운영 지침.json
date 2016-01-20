@@ -48,7 +48,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#JO0001"
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#JO0001"
       },
       {
         "article_no": "제2조",
@@ -59,7 +59,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#JO0002"
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#JO0002"
       },
       {
         "article_no": "제3조",
@@ -70,7 +70,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#JO0003"
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#JO0003"
       },
       {
         "article_no": "제4조",
@@ -81,7 +81,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#JO0004"
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#JO0004"
       },
       {
         "article_no": "제5조",
@@ -92,7 +92,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#JO0005"
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#JO0005"
       },
       {
         "article_no": "제6조",
@@ -103,7 +103,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#JO0006"
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#JO0006"
       },
       {
         "article_no": "제7조",
@@ -114,7 +114,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#JO0007"
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#JO0007"
       }
     ]
   },
@@ -123,7 +123,7 @@
       "promulgation_date": "20170223",
       "promulgation_no": "00830",
       "content": "부칙 <제830호,2017.2.23>제1조(시행일) 이 지침은 공포한 날부터 시행한다.제2조(적용례) ① 제3조 제3항의 변경조항(공과대학장의 추천위원 1명을 감하여 미래융합대학장의 추천위원 1명을 신설)은 2018년 1월 1일부터 시행한다.② 제4조의 규정에 따라, 기존 임명된 일반직위원의 임기는 2017년 12월 31일까지 연장한다.",
-      "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#ADDENDUM",
+      "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#ADDENDUM",
       "is_future": false,
       "source_mst": "2200000100673",
       "source_version_uid": "",
@@ -151,12 +151,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/서울과학기술대학교 대학회계예산편성소위원회 운영 지침"
   },
-  "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#DOC",
-  "addendum_provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#ADDENDUM",
-  "amendment_provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침#AMENDMENT",
+  "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#DOC",
+  "addendum_provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#ADDENDUM",
+  "amendment_provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121751#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "서울과학기술대학교 대학회계예산편성소위원회 운영 지침/서울과학기술대학교 대학회계예산편성소위원회 운영 지침.json"
+  "git_path": "서울과학기술대학교 대학회계예산편성소위원회 운영 지침/school_2121751/서울과학기술대학교 대학회계예산편성소위원회 운영 지침.json"
 }

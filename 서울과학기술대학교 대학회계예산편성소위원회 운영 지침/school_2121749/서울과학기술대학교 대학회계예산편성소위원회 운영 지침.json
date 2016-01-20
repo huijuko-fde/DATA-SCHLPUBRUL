@@ -1,0 +1,151 @@
+{
+  "law_id": "2121749",
+  "mst": "2200000100671",
+  "law_name": "서울과학기술대학교 대학회계예산편성소위원회 운영 지침",
+  "law_abbr": "",
+  "law_type": "학교지침",
+  "doc_target": "school",
+  "doc_kind": "학칙",
+  "adm_uid": "school:2121749",
+  "promulgation_no": "63",
+  "promulgation_date": "20160120",
+  "enforcement_date": "20160120",
+  "revision_date": "20160120",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "서울과학기술대학교 기획처 기획평가과",
+    "담당자명": "",
+    "행정규칙종류코드": "B0028",
+    "행정규칙명": "서울과학기술대학교 대학회계예산편성소위원회 운영 지침",
+    "발령일자": "20160120",
+    "행정규칙종류": "학교지침",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "서울과학기술대학교",
+    "전화번호": "02-970-6064",
+    "제개정구분명": "제정",
+    "소관부처코드": "7008069",
+    "생성일자": "20220301",
+    "행정규칙ID": "2121749",
+    "담당부서기관코드": "7008069",
+    "발령번호": "63",
+    "행정규칙일련번호": "2200000100671"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 지침은 이 지침은 「서울과학기술대학교 재정 및 회계의 운영에 관한 규정」에 따라 대학회계예산편성소위원회의 운영에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "기능",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(기능) 대학회계예산편성소위원회(이하 \"위원회\"라 한다)는 재정위원회 부의 전에 다음 각 호의 사항을 사전 검토 및 조정한다.1. 예산편성지침(안)2. 중기재정운용계획(안)3. 본예산 및 추가경정예산 편성(안)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "위원회 구성",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(위원회 구성) ① 위원회는 위원장을 포함하여 총 17명의 위원으로 구성하며, 당연직위원과 일반직위원으로 구성한다.② 당연직위원은 총 2명으로 하며 기획처장, 사무국장으로 구성한다.③ 일반직위원은 총 15명으로 하며 총장이 임명하는 다음 각 호의 위원으로 구성한다.1. 공과대학장이 추천한 소속 교원 2명2. 정보통신대학장이 추천한 소속 교원 1명3. 에너지바이오대학장이 추천한 소속 교원 1명4. 조형대학장이 추천한 소속 교원 1명5. 인문사회대학장이 추천한 소속 교원 1명6. 기술경영융합대학장이 추천한 소속 교원 1명7. 대학원장이 추천한 소속 교원 1명8. 교수평의회 의장이 추천한 교원 3명(회계전문가 1명을 포함)9. 재정위원회 위원 중 교원대표 2명, 직원대표 1명, 재학생대표 1명④ 위원장은 기획처장이 되고 부위원장은 위원 중에서 호선한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위원장의 직무",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(위원장의 직무) ① 위원장은 위원회를 대표하고 위원회의 직무를 총괄한다.② 위원장은 위원회의 업무에 관한 사항을 총장에게 보고한다.③ 위원장 유고시에는 부위원장이 그 직무를 대행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "회의운영",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(회의운영) ① 위원회의 회의는 다음 각 호의 어느 하나에 해당하는 경우 위원장이 소집한다.1. 위원장이 필요하다고 인정하는 경우2. 위원 3분의 1 이상이 요구하는 경우② 위원회의 회의는 재적위원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "간사",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제6조(간사) 위원회의 업무를 보조하기 위하여 간사 및 서기를 둘 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20160120",
+      "promulgation_no": "00063",
+      "content": "부칙 <제63호,2016.1.20>이 지침은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000100671",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20160120"
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 6,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/서울과학기술대학교 대학회계예산편성소위원회 운영 지침"
+  },
+  "provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#DOC",
+  "addendum_provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#ADDENDUM",
+  "amendment_provision_id": "SchlPubRul:서울과학기술대학교대학회계예산편성소위원회운영지침:school_2121749#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "서울과학기술대학교 대학회계예산편성소위원회 운영 지침/school_2121749/서울과학기술대학교 대학회계예산편성소위원회 운영 지침.json"
+}
