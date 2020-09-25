@@ -48,7 +48,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0001"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0001"
       },
       {
         "article_no": "제2조",
@@ -59,7 +59,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0002"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0002"
       },
       {
         "article_no": "제3조",
@@ -70,7 +70,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0003"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0003"
       },
       {
         "article_no": "제4조",
@@ -81,7 +81,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0004"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0004"
       },
       {
         "article_no": "제5조",
@@ -92,7 +92,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0005"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0005"
       },
       {
         "article_no": "제6조",
@@ -103,7 +103,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0006"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0006"
       },
       {
         "article_no": "제7조",
@@ -114,7 +114,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0007"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0007"
       },
       {
         "article_no": "제8조",
@@ -125,7 +125,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0008"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0008"
       },
       {
         "article_no": "제9조",
@@ -136,7 +136,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0009"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0009"
       },
       {
         "article_no": "제10조",
@@ -147,7 +147,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0010"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0010"
       },
       {
         "article_no": "제11조",
@@ -158,7 +158,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#JO0011"
+        "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#JO0011"
       }
     ]
   },
@@ -167,7 +167,7 @@
       "promulgation_date": "20120229",
       "promulgation_no": "00783",
       "content": "부칙 <제783호,2012.02.29>제1조 (시행일) 이 규정은 공포한 날로부터 시행한다.제2조 (모집단위별 탄력정원의 적용) 모집단위별 탄력정원은 2012학년도부터 적용한다.",
-      "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#ADDENDUM",
+      "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#ADDENDUM",
       "is_future": false,
       "source_mst": "2200000098641",
       "source_version_uid": "",
@@ -178,7 +178,7 @@
       "promulgation_date": "20170126",
       "promulgation_no": "01026",
       "content": "부칙 <제1026호,2017.01.26>제1조 (시행일) 이 규정은 공포한 날로부터 시행한다.",
-      "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#ADDENDUM",
+      "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#ADDENDUM",
       "is_future": false,
       "source_mst": "2200000098641",
       "source_version_uid": "",
@@ -206,12 +206,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/목포대학교 학생정원 관리 및 운영에 관한 규정"
   },
-  "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#DOC",
-  "addendum_provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#ADDENDUM",
-  "amendment_provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정#AMENDMENT",
+  "provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#DOC",
+  "addendum_provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#ADDENDUM",
+  "amendment_provision_id": "SchlPubRul:목포대학교학생정원관리및운영에관한규정:school_2120369#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "목포대학교 학생정원 관리 및 운영에 관한 규정/목포대학교 학생정원 관리 및 운영에 관한 규정.json"
+  "git_path": "목포대학교 학생정원 관리 및 운영에 관한 규정/school_2120369/목포대학교 학생정원 관리 및 운영에 관한 규정.json"
 }
