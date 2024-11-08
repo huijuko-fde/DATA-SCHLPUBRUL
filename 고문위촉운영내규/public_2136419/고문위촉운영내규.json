@@ -1,12 +1,12 @@
 {
-  "law_id": "2137163",
-  "mst": "2200000138953",
+  "law_id": "2136419",
+  "mst": "2200000136621",
   "law_name": "고문위촉운영내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
-  "adm_uid": "public:2137163",
+  "adm_uid": "public:2136419",
   "promulgation_no": "77",
   "promulgation_date": "20241108",
   "enforcement_date": "20241108",
@@ -27,13 +27,13 @@
     "전화번호": "053-603-1141",
     "제개정구분명": "제정",
     "소관부처코드": "B554808",
-    "생성일자": "20250113",
-    "행정규칙ID": "2137163",
+    "생성일자": "20241111",
+    "행정규칙ID": "2136419",
     "담당부서기관코드": "",
     "발령번호": "77",
-    "행정규칙일련번호": "2200000138953"
+    "행정규칙일련번호": "2200000136621"
   },
-  "amendment_text": "",
+  "amendment_text": "대구공공시설관리공단 고문위촉운영내규를 다음과 같이 제정한다.",
   "revision_reason": "1. 제안이유\n효율적이고 체계적인 고문위촉관리를 위하여 공단 통합 내규를 제정하고자 함\n2. 주요내용\n가. 목적, 고문분야 등에 관한 사항을 정함(제 1조부터 3조까지)\n나. 고문위촉, 위촉제한, 해촉 등에 관한 사항을 정함(제 4조부터 7조까지)\n다. 위임, 위임제한 관한 사항을 정함(제 8조부터 9조까지)\n라. 수당, 협의 등에 관한 사항을 정함(제 10조부터 12조까지)\n3. 참고사항\n가. 제 정 안 : 별첨\n나. 관련근거 : 공단 직제규정 제10조(고문·전문위원 등)\n다. 예산조치 : 해당없음\n라. 기    타 : 해당없음",
   "body": {
     "format": "articles",
@@ -48,7 +48,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0001"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0001"
       },
       {
         "article_no": "제2조",
@@ -59,7 +59,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0002"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0002"
       },
       {
         "article_no": "제3조",
@@ -70,7 +70,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0003"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0003"
       },
       {
         "article_no": "제4조",
@@ -81,7 +81,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0004"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0004"
       },
       {
         "article_no": "제5조",
@@ -92,7 +92,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0005"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0005"
       },
       {
         "article_no": "제6조",
@@ -103,7 +103,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0006"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0006"
       },
       {
         "article_no": "제7조",
@@ -114,7 +114,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0007"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0007"
       },
       {
         "article_no": "제8조",
@@ -125,7 +125,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0008"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0008"
       },
       {
         "article_no": "제9조",
@@ -136,7 +136,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0009"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0009"
       },
       {
         "article_no": "제10조",
@@ -147,7 +147,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0010"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0010"
       },
       {
         "article_no": "제11조",
@@ -158,7 +158,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0011"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0011"
       },
       {
         "article_no": "제12조",
@@ -169,7 +169,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#JO0012"
+        "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#JO0012"
       }
     ]
   },
@@ -178,9 +178,9 @@
       "promulgation_date": "20241108",
       "promulgation_no": "00077",
       "content": "부칙 <제77호,2024.11.8.>제1조(시행일) 이 내규는 공포한 날부터 시행한다.제2조(다른 사규의 폐지) 대구시설공단 고문위촉운영내규를 폐지한다.제3조(경과조치) 이 내규 시행 이전에 행해진 사항은 이 내규에 따라 처리된 것으로 본다.제4조(다른 사규와의 관계) 이 내규 시행 당시 다른 사규에서 종전의 조항을 인용 또는 준용하고 있는 경우 이 내규 중 그에 해당하는 조항이 있을 때에는 종전 내규에 갈음하여 이 내규의 해당 조항을 인용 또는 준용한 것으로 본다.제5조(다른 사규의 개정) 사규관리규정시행내규 일부를 다음과 같이 개정한다.별표 1을 다음과 같이 개정한다.[별표 1] (현  행)사규 목록구분환경시설…(생  략)…업무관리…(생  략)…정보공개관리내규고문위촉운영내규교육관리내규…(생  략)……(생  략)…[별표 1] (개  정)사규 목록구분환경시설…(현행과 같음)…업무관리…(현행과 같음)…정보공개관리내규고문위촉운영내규교육관리내규…(현행과 같음)……(현행과 같음)…",
-      "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#ADDENDUM",
+      "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000138953",
+      "source_mst": "2200000136621",
       "source_version_uid": "",
       "source_revision_type": "제정",
       "version_enforcement_date": "20241108"
@@ -206,12 +206,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/고문위촉운영내규"
   },
-  "provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#DOC",
-  "addendum_provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#ADDENDUM",
-  "amendment_provision_id": "SchlPubRul:고문위촉운영내규:public_2137163#AMENDMENT",
+  "provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#DOC",
+  "addendum_provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#ADDENDUM",
+  "amendment_provision_id": "SchlPubRul:고문위촉운영내규:public_2136419#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "고문위촉운영내규/public_2137163/고문위촉운영내규.json"
+  "git_path": "고문위촉운영내규/public_2136419/고문위촉운영내규.json"
 }
