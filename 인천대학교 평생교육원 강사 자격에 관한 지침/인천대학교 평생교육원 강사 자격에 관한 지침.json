@@ -1,0 +1,166 @@
+{
+  "law_id": "2141855",
+  "mst": "2200000160081",
+  "law_name": "인천대학교 평생교육원 강사 자격에 관한 지침",
+  "law_abbr": "",
+  "law_type": "학교지침",
+  "doc_target": "school",
+  "doc_kind": "학칙",
+  "adm_uid": "school:2141855",
+  "promulgation_no": "552",
+  "promulgation_date": "20260202",
+  "enforcement_date": "20260202",
+  "revision_date": "20260202",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "인천대학교",
+    "담당자명": "인천대학교",
+    "행정규칙종류코드": "B0028",
+    "행정규칙명": "인천대학교 평생교육원 강사 자격에 관한 지침",
+    "발령일자": "20260202",
+    "행정규칙종류": "학교지침",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "인천대학교",
+    "전화번호": "032-853",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "7007971",
+    "생성일자": "20260910",
+    "행정규칙ID": "2141855",
+    "담당부서기관코드": "7007971",
+    "발령번호": "552",
+    "행정규칙일련번호": "2200000160081"
+  },
+  "amendment_text": ".",
+  "revision_reason": ".",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 지침은 「인천대학교 평생교육원 규정」 제5조 제1항 및 제2항에서 위임한 인천대학교 평생교육원 운영에 필요한 강사의 자격에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(용어의 정의) 이 지침에서 사용하는 용어의 뜻은 아래와 같다.1. “강사”란 담당과목의 강의 및 이에 따르는 학습자 지도를 담당하는 사람을 말한다.2. “교육경력”은 강사가 담당하는 과목을 교육기관에서 교육한 경력을 말한다.3.“비학위 과정”은 평생교육원에서 운영하는 교육과정 중 학위 과정 외 교육과정을 말한다. <개정 2026.2.2.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "강사의 자격",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(강사의 자격) ① 비학위 과정 강사는 담당할 과목과 관련하여 다음 각 호의 어느 하나에 해당하는 사람으로 한다. <개정 2026.2.2.>1. 학점인정 등에 관한 법률 시행령 제5조의 교수에 해당하는 자2. 학사학위이상 소지자로 1년 이상 교육경력이 있는 자3. 석사학위 이상 소지자4. 자격증 등 기능을 보유한 자로서 교육기관에서 강사 경력이 있는 자5. 기타 관련 분야에 경력이 있는 자② 학점은행제과정 강사의 자격은 교육부가 고시하는 「학점은행제 강사 자격에 관한 규정」에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "강사의 위ㆍ해촉",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(강사의 위ㆍ해촉) ① 강사는 운영위원회의 심의를 거쳐 평생교육원장이 위촉한다.② 강사의 계약기간은 교육과정 또는 수업의 효율적 운영 등을 위하여 학기별로 정하며, 담당학기가 종료되면 별도의 통보 없이 위촉이 해지된다. 다만, 학점은행제과정 강사는 1년 이상으로 한다.③ 제2항에도 불구하고 평생교육원장은 다음 각 호의 어느 하나에 해당하는 자를 그 임용기간에 해촉할 수 있다.1. 서류를 허위로 작성한 자2. 업무를 태만히 하거나 업무수행 능력이 부족한 자3. 신체, 정신상의 이유로 업무수행이 곤란한 자4. 임용 시의 자격기준을 상실한 자5. 기타 평생교육원장이 강사로 부적당하다고 인정하는 자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "제출서류",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(제출서류) 위촉대상인 강사는 다음 각 호의 서류를 제출하여야 한다. 다만, 재위촉 또는 교육과정 특성에 따라 서류제출을 면할 수 있다.<호 삭제 2026.2.2.>1. 강사지원서(신규 강사에 한함) : <별지 제1호 서식> <개정 2026.2.2.>2. 개설신청서(신규 개설과정에 한함) : <별지 제1호 서식> <개정 2026.2.2.><호 삭제 2026.2.2.>3. 학력증명서 <개정 2026.2.2.>4. 경력증명서 <개정 2026.2.2.>5. 재직증명서(해당자에 한함) <개정 2026.2.2.>6. 기타 평생교육원장이 필요로 하는 서류 <개정 2026.2.2.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260202",
+      "promulgation_no": "00552",
+      "content": "부칙 <제552호,2026.2.2>이 지침은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지1",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169186177",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169186177",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#BJ0001",
+      "filename": "별지1_별지1.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_별지1.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 5,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/인천대학교 평생교육원 강사 자격에 관한 지침"
+  },
+  "provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#DOC",
+  "addendum_provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#ADDENDUM",
+  "amendment_provision_id": "SchlPubRul:인천대학교평생교육원강사자격에관한지침#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "인천대학교 평생교육원 강사 자격에 관한 지침/인천대학교 평생교육원 강사 자격에 관한 지침.json"
+}
