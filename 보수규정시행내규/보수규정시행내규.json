@@ -1,0 +1,260 @@
+{
+  "law_id": "2141163",
+  "mst": "2200000156233",
+  "law_name": "보수규정시행내규",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "public",
+  "doc_kind": "공공기관",
+  "adm_uid": "public:2141163",
+  "promulgation_no": "376",
+  "promulgation_date": "20260416",
+  "enforcement_date": "20260416",
+  "revision_date": "20260416",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "의왕도시공사",
+    "담당자명": "김서연",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "보수규정시행내규",
+    "발령일자": "20260416",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "의왕도시공사",
+    "전화번호": "031-8086-7316",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B552752",
+    "생성일자": "20260914",
+    "행정규칙ID": "2141163",
+    "담당부서기관코드": "B552752",
+    "발령번호": "376",
+    "행정규칙일련번호": "2200000156233"
+  },
+  "amendment_text": "제 2조의 4. 특정업무수행경비 예산ㆍ계약ㆍ감사ㆍ노사ㆍ안전관리ㆍ보건관리ㆍ재난관리 실무담당직원에 대하여는 월 80,000원의 특정업무수행활동비를 예산의 범위 내에서 지급할 수 있다. 다만, 결산ㆍ보상ㆍ경영평가실무담당직원은 이사회의 의결을 거쳐 월 80,000원의 특정업무수행활동비를 예산의 범위 내에서 지급 할 수 있다.<개정 2022.04.28., 2024.12.27., 2026.04.16.>",
+  "revision_reason": "2026년 1월 개정된 2026년도 지방공기업 예산편성기준(지침) 내 “지방공기업 재난?안전 예방 및 대응역량 강화를 위해 특정업무경비 공통필수항목으로 재난?안전 담당직원 신설”에 따라, 「보수규정시행내규」 제2조 4. 특정업무수행경비 내 “재난관리” 추가",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 내규는「의왕도시공사 보수규정」(이하 “규정”이라 한다)  보수에 관한 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:보수규정시행내규#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "수당 지급기준",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(수당 지급기준) 수당의 대상자 선정과 지급기준 등은 다음과 같다.1. 가족수당가. 부양의무를 가진 임ㆍ직원과 주민등록표상 세대를 같이 하여야 하며, 당해 임ㆍ직원의 주소 또는 거소에서 실제로 생계를 같이 하여야 한다. 다만, 취학ㆍ요양 또는 주거의 형편이나 임ㆍ직원의 근무형편에 의하여 당해 임ㆍ직원과 별거하고 있는 배우자ㆍ자녀 및 배우자와 주소ㆍ생계를 같이 하는 직계존속은 부양가족에 포함한다.나. 부양가족의 범위는 다음과 같다.1) 배우자2) 본인 및 배우자의 60세(여자인 경우는 55세)이상의 직계존속(계부 및 계모를 포함한다. 이하 이 호에서 같다) 및 60세미만의 직계존속 중 장애의 상태의 정도가 심한 자 <개정 2017.12.12.>※ 여기서 직계존속은 조부모(외조부모 포함) 및 부모(양부모 포함)를 말한다.3) 본인 및 배우자의 19세 미만의 직계비속 및 19세 이상의 직계비속 중 장애의  정도가 심한 자 <개정 2017.12.12.>※ 여기서 직계비속은 자(子) 및 손(孫, 외손 포함)을 말한다.4) 본인 및 배우자의 형제자매 중 장애의 정도가 심한 자와 본인 및 배우자의 부모가 사망하거나 장애의 정도가 심한 자인 경우 본인 및 배우자의 19세 미만의 형제자매 <개정 2017.12.12.>※ <삭제 2017.12.12.>다. 사장은 임ㆍ직원이 허위의 방법으로 가족수당을 지급받은 때에는 그 지급 받은 수당에 해당하는 금액을 변상하도록 하고 당해 임ㆍ직원에 대하여는 1년의 범위 안에서 가족수당의 지급을 정지한다.라. 제“나”목의 규정에서“장애의 정도가 심한 자”라 함은 다음 각 호의 어느 하나에 해당하는 자를 말한다.<신설 2017.12.12.>1) 「장애인복지법 시행령」 제2조에 따른 장애 등급 제1급 내지 제6급2) 「국가유공자 등 예우 및 지원에 관한 법률 시행령」 제14조에 따른 상이등급 제1급 내지 제7급3) 「산업재해보상보험법 시행령」 제53조에 따른 장해등급 제1급 내지 제6급4) 「공무원연금법 시행령」 제45조 또는 「사립학교 교직원 연금법 시행령」 제55조에 따른 장애 등급 제1급 내지 제6급5) 「군인연금법 시행령」 제47조에 따른 상이 등급 제1급 내지 제6급6) 그 밖에 제1호 내지 제5호에 따른 장애에 준하는 자로서 행정안전부장관이 정하는 자2. 자녀학비보조수당 <삭제 2024.03.13.>3. 시간외근무수당 및 휴일근무수당, 야간근무수당가. 규정 제23조의 시간외근무수당 지급대상시간은 근로기준법에 정하는 바에 따른다.나. 시간외근무를 하는 경우 시간외근무일지(별지 제1호 서식)를 작성하여 최종근무 종료 후 퇴청시 시간기록기에 개인별 근무카드를 체크한 후 익일 복무부서에 확인을 받아야 한다.다. 시간외근무 명령권자는 개인별 시간외근무내역(별지 제2호 서식)을 작성하여 매월 말일까지 보수지급부서에 제출하여야 한다.라. 휴일근무수당 및 야간근무수당도 제“나”목, 제“다”목에 의한다.4. 특정업무수행경비 예산ㆍ계약ㆍ감사ㆍ노사ㆍ안전관리ㆍ보건관리ㆍ재난관리 실무담당직원에 대하여는 월 80,000원의 특정업무수행활동비를 예산의 범위 내에서 지급할 수 있다. 다만, 결산ㆍ보상ㆍ경영평가실무담당직원은 이사회의 의결을 거쳐 월 80,000원의 특정업무수행활동비를 예산의 범위 내에서 지급 할 수 있다.<개정 2022.04.28., 2024.12.27., 2026.04.16.>5. 장려수당 및 유해시설근무수당 분뇨ㆍ하수ㆍ폐수 또는 쓰레기처리장의 쓰레기처리업무를 전담하는 시설근무자 중 직접 종사자에게 정규직 및 관리팀장은 월 270,000원의 장려수당, 계약직은 월 100,000원의 유해시설근무수당을 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:보수규정시행내규#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "특별성과금",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(특별성과금) 규정 제19조의 특별성과금 지급기준표는 “별표1”과 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:보수규정시행내규#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "일할계산",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(일할계산) 보수의 일할계산은 해당 월의 일수에 불구하고 30분의1로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:보수규정시행내규#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20110715",
+      "promulgation_no": "00007",
+      "content": "부칙 <제7호,2011.07.15.>① (시행일) 이 내규는 공사 설립일로부터 시행한다.② (경과조치) 이 내규 시행이전에 내부결재 또는 관계법규에 의하여 처리, 시행된 사항은 이 내규에 의거 집행된 것으로 본다.",
+      "provision_id": "SchlPubRul:보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000156233",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260416"
+    },
+    {
+      "promulgation_date": "20141205",
+      "promulgation_no": "00064",
+      "content": "부칙 <제64호,2014.12.05>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000156233",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260416"
+    },
+    {
+      "promulgation_date": "20171212",
+      "promulgation_no": "00113",
+      "content": "부칙 <제113호,2017.12.12.>제1조(시행일) 이 규정은 공포한 날부터 시행한다. 다만, 제2조 제1호 제나목의 3) 및 제나목의 4) 개정규정은 2018년 1월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000156233",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260416"
+    },
+    {
+      "promulgation_date": "20240313",
+      "promulgation_no": "00315",
+      "content": "부칙 <제315호,2024.03.13.>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000156233",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260416"
+    },
+    {
+      "promulgation_date": "20241227",
+      "promulgation_no": "00341",
+      "content": "부칙 <제341호,2024.12.27.>이 내규는 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000156233",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260416"
+    },
+    {
+      "promulgation_date": "20260416",
+      "promulgation_no": "00376",
+      "content": "부칙 <제376호,2026.04.16.>이 내규는 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000156233",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260416"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "특별성과금 지급기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000156233&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168461157",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168461157",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:보수규정시행내규#BYL0001",
+      "filename": "별표1_특별성과금 지급기준표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_특별성과금 지급기준표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "시간외근무일지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168461163",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168461163",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:보수규정시행내규#BJ0001",
+      "filename": "별지1_시간외근무일지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_시간외근무일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "시간외근무 내역표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168461169",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168461169",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:보수규정시행내규#BJ0002",
+      "filename": "별지2_시간외근무 내역표.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_시간외근무 내역표.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 4,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 3,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/보수규정시행내규"
+  },
+  "provision_id": "SchlPubRul:보수규정시행내규#DOC",
+  "addendum_provision_id": "SchlPubRul:보수규정시행내규#ADDENDUM",
+  "amendment_provision_id": "SchlPubRul:보수규정시행내규#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "보수규정시행내규/보수규정시행내규.json"
+}
