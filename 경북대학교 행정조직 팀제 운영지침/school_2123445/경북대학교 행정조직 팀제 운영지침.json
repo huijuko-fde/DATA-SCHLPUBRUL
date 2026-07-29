@@ -48,7 +48,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#JO0001"
+        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#JO0001"
       },
       {
         "article_no": "제2조",
@@ -59,7 +59,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#JO0002"
+        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#JO0002"
       },
       {
         "article_no": "제3조",
@@ -70,7 +70,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#JO0003"
+        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#JO0003"
       },
       {
         "article_no": "제4조",
@@ -81,7 +81,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#JO0004"
+        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#JO0004"
       },
       {
         "article_no": "제5조",
@@ -92,7 +92,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#JO0005"
+        "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#JO0005"
       }
     ]
   },
@@ -101,7 +101,7 @@
       "promulgation_date": "20211230",
       "promulgation_no": "00881",
       "content": "부칙 <제881호,2021.12.30>이 지침은 공포한 날부터 시해한다.",
-      "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#ADDENDUM",
+      "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#ADDENDUM",
       "is_future": false,
       "source_mst": "2200000105015",
       "source_version_uid": "",
@@ -129,7 +129,7 @@
         }
       ],
       "images": [],
-      "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#BYL0001",
+      "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#BYL0001",
       "filename": "별표1_팀의 구성과 명칭.hwp",
       "file_dir": "별표",
       "local_path": "별표/별표1_팀의 구성과 명칭.hwp",
@@ -155,12 +155,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/경북대학교 행정조직 팀제 운영지침"
   },
-  "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#DOC",
-  "addendum_provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#ADDENDUM",
-  "amendment_provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침#AMENDMENT",
+  "provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#DOC",
+  "addendum_provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#ADDENDUM",
+  "amendment_provision_id": "SchlPubRul:경북대학교행정조직팀제운영지침:school_2123445#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "경북대학교 행정조직 팀제 운영지침/경북대학교 행정조직 팀제 운영지침.json"
+  "git_path": "경북대학교 행정조직 팀제 운영지침/school_2123445/경북대학교 행정조직 팀제 운영지침.json"
 }
